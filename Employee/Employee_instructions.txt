@@ -1,0 +1,20 @@
+class employee{
+    id, name, ssn,salary//use constructor
+    static string company
+    change_name();
+    newname 
+    rasied_salary();
+    //The amount of increment
+}
+
+class manager: public employee{
+    Department, constructor
+    call employee constructor
+}
+
+class Director: manager{
+    call manager constructor
+}
+
+
+//Think to add overloading.
